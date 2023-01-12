@@ -12,8 +12,8 @@
 
 ### Screenshots:
 
-![Dashboard](Dashboard.PNG)
+![Dashboard](https://github.com/dhirajgaikwadb/Login-2-Explore/blob/a2f08385647726ff206a00ed83ee19462dc034d6/Dashboard.PNG)
 
-![Index Page](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Index.PNG)
+![Index Page](https://github.com/dhirajgaikwadb/Login-2-Explore/blob/a2f08385647726ff206a00ed83ee19462dc034d6/Form.PNG)
 
-![Visualize](https://github.com/BeAgarwal/JsonPowerDB/blob/master/Assets/Screenshots/Server.PNG)
+![Visualize](https://github.com/dhirajgaikwadb/Login-2-Explore/blob/a2f08385647726ff206a00ed83ee19462dc034d6/Database.PNG)
